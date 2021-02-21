@@ -1,0 +1,13 @@
+{
+    "name": "mbrianp/dic",
+    "description": "A dependencies injections container component",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Brian",
+            "email": "mbrianp05@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
