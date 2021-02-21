@@ -1,6 +1,6 @@
 <?php
 
-namespace Mbrianp\Component\DIC;
+namespace Mbrianp\FuncCollectiono\DIC;
 
 class Service
 {
