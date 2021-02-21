@@ -1,6 +1,6 @@
 <?php
 
-namespace Mbrianp\FuncCollectiono\DIC;
+namespace Mbrianp\FuncCollection\DIC;
 
 class DIC
 {
